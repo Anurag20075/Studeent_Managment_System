@@ -79,7 +79,3 @@ Enter your choice:
 * 💬 Contributions and suggestions are welcome!
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
