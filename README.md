@@ -1,4 +1,4 @@
-# Student Management System (CLI-based)
+# Student Management System (CLI-based
 
 A simple **Command Line Interface (CLI)** application built in Java to manage student records. This application allows users to perform basic **CRUD operations** — Create, Read, Update, and Delete — on student data, including their **ID**, **Name**, and **Marks**.
 
@@ -39,13 +39,13 @@ LibraryManagmentSystem/
 3. Compile the code:
 
    ```bash
-   javac LibraryManagmentSystem/*.java
+   javac Student_Managment_System/*.java
    ```
 
 4. Run the application:
 
    ```bash
-   java LibraryManagmentSystem.StudentCLIApp
+   java Student_Managment_System.StudentCLIApp
    ```
 
 ---
